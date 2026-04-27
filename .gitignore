@@ -1,0 +1,15 @@
+# Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database (Strictly Local!)
+data/db/*.db
+
+# Build files (from PyInstaller)
+build/
+dist/
+*.spec
